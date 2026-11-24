@@ -12,6 +12,13 @@ Because every value is a valid index, `i -> nums[i]` defines a linked structure 
 
 **Complexity:** O(n) time, O(1) space, array untouched.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
